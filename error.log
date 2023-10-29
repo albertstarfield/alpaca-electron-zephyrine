@@ -1,0 +1,52 @@
+Supermodel v0.2a Error Log
+--------------------------
+
+Started as:
+	argv[0] = C:\supermodel\Supermodel.exe
+	argv[1] = C:\lostwsga.zip
+	argv[2] = -res=1024,768
+
+OpenGL information:
+                   Vendor: Apple
+                 Renderer: Apple M2 Pro
+                  Version: 2.1 Metal - 86
+ Shading Language Version: 1.20
+Maximum Vertex Array Size: 1048575 vertices
+     Maximum Texture Size: 16384 texels
+Maximum Vertex Attributes: 16
+  Maximum Vertex Uniforms: 4096
+
+Program settings:
+	XResolution               = 1024
+	YResolution               = 768
+	FullScreen                = 0
+	Throttle                  = 1
+	ShowFrameRate             = 0
+	InputSystem               = dinput
+	FlipStereo                = 0
+	DirectInputConstForceMax  = 100
+	DirectInputSelfCenterMax  = 100
+	DirectInputFrictionMax    = 100
+	DirectInputVibrateMax     = 100
+	XInputConstForceThreshold = 30
+	XInputConstForceMax       = 100
+	XInputVibrateMax          = 100
+	MultiThreaded             = 1
+	PowerPCFrequency          = 50
+	EmulateSound              = 1
+	EmulateDSB                = 1
+	SoundVolume               = 100
+	MusicVolume               = 100
+	ForceFeedback             = 0
+	VertexShader              = 
+	FragmentShader            = 
+
+Audio device information:
+    Frequency: 44100
+     Channels: 2
+Sample Format: 32784
+
+Static vertex buffer size: 61.42 MB
+Dynamic vertex buffer size: 5.62 MB
+Unable to save NVRAM to 'NVRAM/lostwsga.nv'. Make sure directory exists!
+Program terminated normally.
